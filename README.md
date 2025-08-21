@@ -27,7 +27,7 @@
 ## ⚙️ Установка и запуск
 ```bash
 # клонировать проект
-git clone https://github.com/yourname/task-manager-api.git
+git clone https://github.com/Elero16/task-manager-api
 cd task-manager-api
 
 # установить зависимости
@@ -39,3 +39,4 @@ createdb taskdb
 # заполнить .env (пример в .env)
 # запустить сервер
 npm run dev
+
